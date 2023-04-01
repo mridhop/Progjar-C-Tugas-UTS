@@ -1,6 +1,7 @@
-# Progjar-C-Tugas-UTS
 
-Nama        : Muhamad Ridho Pratama<br>
-NRP         : 5025201186<br>
-Mata Kuliah : Pemrograman Jaringan<br>
-Kelas       : C<br>
+# Tugas Tengah Semester Mata Kuliah Pemrograman Jaringan
+
+Nama&emsp;&emsp;&emsp;&emsp;: Muhamad Ridho Pratama  
+NRP&emsp;&emsp;&emsp;&emsp;&emsp;: 5025201186  
+Mata Kuliah&emsp;: Pemrograman Jaringan  
+Kelas&emsp;&emsp;&emsp;: C  
