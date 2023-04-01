@@ -1,6 +1,6 @@
 # Progjar-C-Tugas-UTS
 
-Nama        : Muhamad Ridho Pratama
-NRP         : 5025201186
-Mata Kuliah : Pemrograman Jaringan
-Kelas       : C
+Nama        : Muhamad Ridho Pratama<br>
+NRP         : 5025201186<br>
+Mata Kuliah : Pemrograman Jaringan<br>
+Kelas       : C<br>
