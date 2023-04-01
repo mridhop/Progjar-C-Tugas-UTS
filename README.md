@@ -1,2 +1,6 @@
 # Progjar-C-Tugas-UTS
-Repositori untuk tugas tengah semester mata kuliah Pemrograman Jaringan 2022/23.
+
+Nama        : Muhamad Ridho Pratama
+NRP         : 5025201186
+Mata Kuliah : Pemrograman Jaringan
+Kelas       : C
